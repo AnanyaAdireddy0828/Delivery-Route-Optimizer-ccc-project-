@@ -1,6 +1,6 @@
-# 🚚 Delivery Route Optimizer (Dynamic Programming Project)
+#  Delivery Route Optimizer (Dynamic Programming Project)
 
-## 📌 Overview
+##  Overview
 
 The **Delivery Route Optimizer** is a full-stack project that finds the **minimum cost path** between two locations using **Dynamic Programming (DP)**.
 
@@ -8,7 +8,7 @@ It takes a graph (as an adjacency matrix) and computes the most efficient route 
 
 ---
 
-## 🧠 Core Concept
+##  Core Concept
 
 This project is based on **Dynamic Programming (Top-Down with Memoization)**.
 
@@ -21,7 +21,7 @@ This project is based on **Dynamic Programming (Top-Down with Memoization)**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -37,7 +37,7 @@ This project is based on **Dynamic Programming (Top-Down with Memoization)**.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project-root/
@@ -59,7 +59,7 @@ project-root/
 
 ---
 
-## ⚙️ How It Works (Workflow)
+##  How It Works (Workflow)
 
 ### 1. User Input (Frontend)
 
@@ -108,7 +108,7 @@ Frontend displays result to user
 
 ---
 
-## 🧮 Algorithm Explanation
+##  Algorithm Explanation
 
 ### Function:
 
@@ -138,7 +138,7 @@ findMinCostPath(graph, start, end)
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 🔹 Step 1: Go to backend
 
@@ -194,7 +194,7 @@ npx live-server
 
 ---
 
-## 📡 API Details
+##  API Details
 
 ### Endpoint:
 
@@ -236,7 +236,7 @@ POST /optimize-route
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 ✔ Finds optimal delivery route
 ✔ Uses efficient DP algorithm
@@ -246,7 +246,7 @@ POST /optimize-route
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * Practical use of **Dynamic Programming**
 * Backend API development using Express
@@ -262,7 +262,7 @@ This project demonstrates how **real-world problems like delivery optimization**
 
 ---
 
-## 🙌 Future Improvements
+##  Future Improvements
 
 * Add map visualization
 * Use real-world data (Google Maps API)
